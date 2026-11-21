@@ -1,0 +1,468 @@
+{
+  "profession": "minecraft:toolsmith",
+  "replace": false,
+  "levels": {
+    "1": {
+      "buy": [
+        {
+          "item": "minecraft:coal",
+          "count_min": 14,
+          "count_max": 18,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 2
+        },
+        {
+          "item": "minecraft:copper_ingot",
+          "count_min": 10,
+          "count_max": 14,
+          "emeralds_min": 1,
+          "emeralds_max": 2,
+          "max_uses": 16,
+          "xp": 2
+        },
+        {
+          "item": "minecraft:flint",
+          "count_min": 22,
+          "count_max": 28,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 2
+        },
+        {
+          "item": "minecraft:raw_iron",
+          "count_min": 6,
+          "count_max": 9,
+          "emeralds_min": 1,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 2
+        },
+        {
+          "item": "minecraft:stick",
+          "count_min": 28,
+          "count_max": 36,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 2
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:stone_axe",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 12,
+          "xp": 1
+        },
+        {
+          "item": "minecraft:stone_shovel",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 12,
+          "xp": 1
+        },
+        {
+          "item": "minecraft:stone_pickaxe",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 12,
+          "xp": 1
+        },
+        {
+          "item": "minecraft:stone_hoe",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 12,
+          "xp": 1
+        },
+        {
+          "item": "minecraft:brush",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 2,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 1
+        }
+      ]
+    },
+    "2": {
+      "buy": [
+        {
+          "item": "minecraft:iron_ingot",
+          "count_min": 4,
+          "count_max": 6,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 12,
+          "xp": 5
+        },
+        {
+          "item": "minecraft:copper_block",
+          "count_min": 2,
+          "count_max": 4,
+          "emeralds_min": 2,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 5
+        },
+        {
+          "item": "minecraft:redstone",
+          "count_min": 16,
+          "count_max": 24,
+          "emeralds_min": 1,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 5
+        },
+        {
+          "item": "minecraft:amethyst_shard",
+          "count_min": 8,
+          "count_max": 12,
+          "emeralds_min": 1,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 5
+        },
+        {
+          "item": "minecraft:charcoal",
+          "count_min": 16,
+          "count_max": 22,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 5
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:bell",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 24,
+          "emeralds_max": 32,
+          "max_uses": 4,
+          "xp": 5
+        },
+        {
+          "item": "minecraft:iron_pickaxe",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 4,
+          "emeralds_max": 6,
+          "max_uses": 12,
+          "xp": 5
+        },
+        {
+          "item": "minecraft:iron_shovel",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 3,
+          "emeralds_max": 4,
+          "max_uses": 12,
+          "xp": 5
+        },
+        {
+          "item": "minecraft:shears",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 2,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 5
+        },
+        {
+          "item": "minecraft:flint_and_steel",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 2,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 5
+        }
+      ]
+    },
+    "3": {
+      "buy": [
+        {
+          "item": "minecraft:flint",
+          "count_min": 24,
+          "count_max": 30,
+          "emeralds_min": 1,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 10
+        },
+        {
+          "item": "minecraft:gold_ingot",
+          "count_min": 4,
+          "count_max": 6,
+          "emeralds_min": 1,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 10
+        },
+        {
+          "item": "minecraft:lapis_lazuli",
+          "count_min": 12,
+          "count_max": 18,
+          "emeralds_min": 1,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 10
+        },
+        {
+          "item": "minecraft:quartz",
+          "count_min": 14,
+          "count_max": 20,
+          "emeralds_min": 1,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 10
+        },
+        {
+          "item": "minecraft:obsidian",
+          "count_min": 6,
+          "count_max": 10,
+          "emeralds_min": 2,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 10
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:iron_axe",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 7,
+          "emeralds_max": 12,
+          "max_uses": 4,
+          "xp": 10,
+          "special": "enchanted_item"
+        },
+        {
+          "item": "minecraft:iron_shovel",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 6,
+          "emeralds_max": 10,
+          "max_uses": 4,
+          "xp": 10,
+          "special": "enchanted_item"
+        },
+        {
+          "item": "minecraft:iron_pickaxe",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 8,
+          "emeralds_max": 13,
+          "max_uses": 4,
+          "xp": 10,
+          "special": "enchanted_item"
+        },
+        {
+          "item": "minecraft:diamond_hoe",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 4,
+          "emeralds_max": 6,
+          "max_uses": 6,
+          "xp": 10
+        }
+      ]
+    },
+    "4": {
+      "buy": [
+        {
+          "item": "minecraft:diamond",
+          "count_min": 1,
+          "count_max": 2,
+          "emeralds_min": 2,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 15
+        },
+        {
+          "item": "minecraft:iron_block",
+          "count_min": 1,
+          "count_max": 2,
+          "emeralds_min": 2,
+          "emeralds_max": 4,
+          "max_uses": 12,
+          "xp": 15
+        },
+        {
+          "item": "minecraft:amethyst_block",
+          "count_min": 4,
+          "count_max": 6,
+          "emeralds_min": 2,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 15
+        },
+        {
+          "item": "minecraft:redstone_block",
+          "count_min": 2,
+          "count_max": 4,
+          "emeralds_min": 2,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 15
+        },
+        {
+          "item": "minecraft:copper_block",
+          "count_min": 4,
+          "count_max": 6,
+          "emeralds_min": 3,
+          "emeralds_max": 4,
+          "max_uses": 12,
+          "xp": 15
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:diamond_axe",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 12,
+          "emeralds_max": 22,
+          "max_uses": 3,
+          "xp": 15,
+          "special": "enchanted_item"
+        },
+        {
+          "item": "minecraft:diamond_shovel",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 9,
+          "emeralds_max": 16,
+          "max_uses": 3,
+          "xp": 15,
+          "special": "enchanted_item"
+        },
+        {
+          "item": "minecraft:diamond_hoe",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 8,
+          "emeralds_max": 14,
+          "max_uses": 3,
+          "xp": 15,
+          "special": "enchanted_item"
+        },
+        {
+          "item": "minecraft:spyglass",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 5,
+          "emeralds_max": 8,
+          "max_uses": 6,
+          "xp": 15
+        }
+      ]
+    },
+    "5": {
+      "buy": [
+        {
+          "item": "minecraft:diamond",
+          "count_min": 2,
+          "count_max": 3,
+          "emeralds_min": 4,
+          "emeralds_max": 6,
+          "max_uses": 12,
+          "xp": 20
+        },
+        {
+          "item": "minecraft:netherite_scrap",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 8,
+          "emeralds_max": 12,
+          "max_uses": 4,
+          "xp": 25
+        },
+        {
+          "item": "minecraft:obsidian",
+          "count_min": 8,
+          "count_max": 12,
+          "emeralds_min": 3,
+          "emeralds_max": 5,
+          "max_uses": 12,
+          "xp": 20
+        },
+        {
+          "item": "minecraft:gold_block",
+          "count_min": 1,
+          "count_max": 2,
+          "emeralds_min": 4,
+          "emeralds_max": 6,
+          "max_uses": 10,
+          "xp": 20
+        },
+        {
+          "item": "minecraft:echo_shard",
+          "count_min": 1,
+          "count_max": 2,
+          "emeralds_min": 6,
+          "emeralds_max": 10,
+          "max_uses": 6,
+          "xp": 25
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:diamond_pickaxe",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 15,
+          "emeralds_max": 26,
+          "max_uses": 3,
+          "xp": 25,
+          "special": "enchanted_item"
+        },
+        {
+          "item": "minecraft:diamond_axe",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 14,
+          "emeralds_max": 24,
+          "max_uses": 3,
+          "xp": 25,
+          "special": "enchanted_item"
+        },
+        {
+          "item": "minecraft:diamond_shovel",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 10,
+          "emeralds_max": 18,
+          "max_uses": 3,
+          "xp": 25,
+          "special": "enchanted_item"
+        },
+        {
+          "item": "minecraft:anvil",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 12,
+          "emeralds_max": 16,
+          "max_uses": 4,
+          "xp": 25
+        }
+      ]
+    }
+  }
+}

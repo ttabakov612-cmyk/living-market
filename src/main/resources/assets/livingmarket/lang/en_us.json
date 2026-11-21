@@ -1,0 +1,12 @@
+{
+  "gui.livingmarket.pin": "Pin (%s/%s)",
+  "gui.livingmarket.unpin": "Unpin (%s/%s)",
+  "gui.livingmarket.pin.tooltip": "Pin the selected trade so it persists across daily refreshes and manual rerolls.",
+  "gui.livingmarket.pin.tooltip.limit": "Pin limit reached (%s/%s). Unpin another trade first.",
+  "gui.livingmarket.unpin.tooltip": "Unpin the selected trade.",
+  "gui.livingmarket.reroll": "Reroll (%s Em.)",
+  "gui.livingmarket.reroll.free": "Reroll (Free)",
+  "gui.livingmarket.reroll.tooltip": "Refresh all unpinned trades immediately. Cost scales with each reroll today and resets at dawn.",
+  "gui.livingmarket.reroll.tooltip.no_emeralds": "Not enough emeralds (need: %s).",
+  "gui.livingmarket.reroll.tooltip.all_pinned": "All current trades are pinned."
+}
